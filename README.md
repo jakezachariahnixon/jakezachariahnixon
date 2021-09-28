@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jake</h1>
 <h3 align="center">A software engineer at Rvvup - building the future of money movement</h3>
 
-- 🔭 I’m currently working on [Rvvup](https://www.rvvup.com/)
+- 👨‍💻 I’m currently working on [Rvvup](https://www.rvvup.com/)
 
-- 🌱 I’m currently learning **Kotlin**
+- 🏫 I’m a volunteer educator at [Code Your Future](https://codeyourfuture.io/)
 
-- 👨‍💻 All of my projects are available at [jakezachariahnixon.github.io](jakezachariahnixon.github.io)
+- 💬 I'm a mentor with [Meet a Mentor](https://meetamentor.co.uk/)
 
-- 💬 Ask me about **React**
+- ⚡ Member of the [British Computer Society](https://www.bcs.org/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
