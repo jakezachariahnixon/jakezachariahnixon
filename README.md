@@ -1,12 +1,18 @@
 <h1 align="center">Hi 👋, I'm Jake</h1>
-<h2 align="center">Software engineer at Rvvup - building the future of money movement</h3>
+<h2 align="center">Software engineer - open to new opportunities</h3>
 
 ### 👨‍💻 What do I do?
 
- - I'm a software engineer at [Rvvup](https://www.rvvup.com/) - building the future of money movement.
- - I'm the Early Career Advocate Committee Member of the [British Computer Society](https://www.bcs.org/)'s North Staffordshire branch.
- - I'm a volunteer educator at [Code Your Future](https://codeyourfuture.io/) - offering training to refugees and disadvantaged people.
- -  I'm a mentor at [Meet a Mentor](https://meetamentor.co.uk/) - where I offer help to those who are breaking into the tech industry.
+ -  I'm a mentor at [Meet a Mentor](https://meetamentor.co.uk/) - offering help to those who are breaking into the tech industry.
+
+### ⏱️ Previously
+
+ - Software engineer at [Rvvup](https://www.rvvup.com/) - building the future of money movement
+ - Software engineer at [Huler](https://huler.io) - reimagining the digital employee experience
+ - Software engineer at [ZEG.ai](https://www.zeg.ai/) - web-based photo studio.
+ - Front-end developer at Bao Jian - marketing agency.
+ - Early Career Advocate Committee Member of the [British Computer Society](https://www.bcs.org/)'s North Staffordshire branch.
+ - Volunteer educator at [Code Your Future](https://codeyourfuture.io/) - offering training to refugees and disadvantaged people.
 
 ### ⚡ Languages and Tools:
 <p align="center"> 
