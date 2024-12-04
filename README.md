@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jake</h1>
-<h2 align="center">Software engineer - open to new opportunities</h3>
+<h2 align="center">Software engineer @ The Economist</h3>
 
 ### 👨‍💻 What do I do?
 
- -  I'm a mentor at [Meet a Mentor](https://meetamentor.co.uk/) - offering help to those who are breaking into the tech industry.
+ - Software engineer at [The Economist](https://www.economist.com/)
+ - I'm a mentor at [Meet a Mentor](https://meetamentor.co.uk/) - offering help to those who are breaking into the tech industry.
 
 ### ⏱️ Previously
 
